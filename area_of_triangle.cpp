@@ -15,4 +15,6 @@ int main(){
     float area = 1/2.0 * (a*b);
 
     cout << "Area : " << area << endl; 
+
+    return 0;
 }
