@@ -10,5 +10,4 @@ int main(){
 
     cout << "In celsius: " << C << endl;
 
-    return 0;
 }
